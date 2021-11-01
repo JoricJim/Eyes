@@ -1,7 +1,7 @@
 {
-  "name": "Discord-24x7-Music-YT",
-  "version": "2.0.0",
-  "description": "Host your own music streaming bot that stays in a channel forever and streams music from YouTube!",
+  "name": "Eyes",
+  "version": "1.0.0",
+  "description": "Бесконечный поток музыки с YouTube",
   "main": "index.js",
   "scripts": {
     "test": "npm install",
